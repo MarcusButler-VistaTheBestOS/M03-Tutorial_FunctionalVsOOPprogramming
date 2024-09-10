@@ -10,19 +10,32 @@
         <mxCell id="jHRryZpSAA9MjvkaloiL-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="10" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TX6Ag44tq4ehKoy0bHKY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TX6Ag44tq4ehKoy0bHKY-3" target="TX6Ag44tq4ehKoy0bHKY-5">
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TX6Ag44tq4ehKoy0bHKY-3" target="TX6Ag44tq4ehKoy0bHKY-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TX6Ag44tq4ehKoy0bHKY-3" value="arr = [0, 2, 1, 2, 0]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-3" value="array = [1, 2, 3, 4, 5]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TX6Ag44tq4ehKoy0bHKY-5" value="sorted = arr[:]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-11" value="What index is 2 at?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TX6Ag44tq4ehKoy0bHKY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TX6Ag44tq4ehKoy0bHKY-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="689.04" y="97.03999999999996" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TX6Ag44tq4ehKoy0bHKY-13" target="TX6Ag44tq4ehKoy0bHKY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-13" value="previous index 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-14" value="at 5 came from 10 go up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TX6Ag44tq4ehKoy0bHKY-15" target="TX6Ag44tq4ehKoy0bHKY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-15" value="10-5= 5//2 = 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TX6Ag44tq4ehKoy0bHKY-17" value="index at + 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
